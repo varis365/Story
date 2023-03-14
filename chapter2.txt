@@ -1,1 +1,1 @@
-This  is chapter 2 for git example.
+This  is chapter 2 for git example. Detailed about the story.
